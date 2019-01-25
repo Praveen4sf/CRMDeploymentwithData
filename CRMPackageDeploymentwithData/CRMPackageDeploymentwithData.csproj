@@ -154,9 +154,6 @@
     <Content Include="PkgFolder\Content\en-us\WelcomeHtml\Images\top_item_selected_bg.gif">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="PkgFolder\Custom Entity Data.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="PkgFolder\ImportConfig.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -165,9 +162,7 @@
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="PkgFolder\Custom Entity Data.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <None Include="PkgFolder\Custom Entity Data.csv" />
     <None Include="PkgFolder\Solution2_1_0_0_0_managed.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
