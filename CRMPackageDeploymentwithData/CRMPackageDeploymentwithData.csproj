@@ -162,9 +162,7 @@
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="PkgFolder\Custom Entity Data.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <None Include="PkgFolder\Custom Entity 1.csv" />
     <None Include="PkgFolder\Solution2_1_0_0_0_managed.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
